@@ -48,4 +48,5 @@ This Python script is designed to perform information retrieval tasks on a colle
    - If you encounter any issues while running the script, ensure that you have provided the correct path to the collection of documents and that the required Python packages are .
 installed
 
-
+################################################################### RUN IN TERMINAL#########################################################################################################
+ #to run the program in terminal just type the lines between the dollar sign  $ py .\main.py \\RCV1v2  $  this is assuming the documents ot be parsed are in the folder RCV1v2
