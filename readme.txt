@@ -1,7 +1,7 @@
 ############################################# RUNNING IN PYCHARM #############################################################################################################
 
 
-IFN647 Assignment 1 - Information Retrieval
+ Information Retrieval
 
 This Python script is designed to perform information retrieval tasks on a collection of documents using various algorithms. Below are the instructions on how to run the script:
 
